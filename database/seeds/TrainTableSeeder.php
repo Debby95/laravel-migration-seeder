@@ -2,6 +2,8 @@
 
 use Illuminate\Database\Seeder;
 use App\Controller;
+use Mockery\Matcher\Type;
+use App\Train;
 
 class TrainTableSeeder extends Seeder
 {
